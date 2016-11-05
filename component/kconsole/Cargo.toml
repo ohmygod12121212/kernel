@@ -1,0 +1,7 @@
+[package]
+name = "kconsole"
+version = "0.1.0"
+authors = ["seraph"]
+
+[dependencies]
+x86 = "0.8.0"
